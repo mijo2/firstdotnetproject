@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0Tr+p52okjXmiEaPZQIUYqWV/0/WtI4HIuv5jl9jo54Z0mmh+Z1Nk+8cEeVb6sDMWu6eLeLKCrEWZeKinyQ/pw==",
+  "dgSpecHash": "TxshpYMnGuHYUzI59AVSh7sNYAZSTSzZgrfevtfx2IRBmHBXnhmnUvlkjaIm/g6tuJaKUY+l9ioU8FUg//XaPw==",
   "success": true,
-  "projectFilePath": "/home/mijo1/Desktop/Sts/Sapient_Courses/PJP2_projects/networkspace/FirstCoreProject/FirstCoreProject.csproj",
+  "projectFilePath": "/home/mijo1/Desktop/Sts/Sapient_Courses/PJP2_projects/firstdotnetproject/FirstCoreProject/FirstCoreProject.csproj",
   "expectedPackageFiles": [
     "/home/mijo1/.nuget/packages/microsoft.csharp/4.0.1/microsoft.csharp.4.0.1.nupkg.sha512",
     "/home/mijo1/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",

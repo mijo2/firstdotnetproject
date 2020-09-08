@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/mijo1/Desktop/Sts/Sapient_Courses/PJP2_projects/networkspace/FirstCoreProject/FirstCoreProject.csproj": {}
+    "/home/mijo1/Desktop/Sts/Sapient_Courses/PJP2_projects/firstdotnetproject/FirstCoreProject/FirstCoreProject.csproj": {}
   },
   "projects": {
-    "/home/mijo1/Desktop/Sts/Sapient_Courses/PJP2_projects/networkspace/FirstCoreProject/FirstCoreProject.csproj": {
+    "/home/mijo1/Desktop/Sts/Sapient_Courses/PJP2_projects/firstdotnetproject/FirstCoreProject/FirstCoreProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/mijo1/Desktop/Sts/Sapient_Courses/PJP2_projects/networkspace/FirstCoreProject/FirstCoreProject.csproj",
+        "projectUniqueName": "/home/mijo1/Desktop/Sts/Sapient_Courses/PJP2_projects/firstdotnetproject/FirstCoreProject/FirstCoreProject.csproj",
         "projectName": "FirstCoreProject",
-        "projectPath": "/home/mijo1/Desktop/Sts/Sapient_Courses/PJP2_projects/networkspace/FirstCoreProject/FirstCoreProject.csproj",
+        "projectPath": "/home/mijo1/Desktop/Sts/Sapient_Courses/PJP2_projects/firstdotnetproject/FirstCoreProject/FirstCoreProject.csproj",
         "packagesPath": "/home/mijo1/.nuget/packages/",
-        "outputPath": "/home/mijo1/Desktop/Sts/Sapient_Courses/PJP2_projects/networkspace/FirstCoreProject/obj/",
+        "outputPath": "/home/mijo1/Desktop/Sts/Sapient_Courses/PJP2_projects/firstdotnetproject/FirstCoreProject/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/mijo1/.nuget/NuGet/NuGet.Config"
@@ -25,8 +25,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "/home/mijo1/Desktop/Sts/Sapient_Courses/PJP2_projects/networkspace/FirstLibrary/FirstLibrary.csproj": {
-                "projectPath": "/home/mijo1/Desktop/Sts/Sapient_Courses/PJP2_projects/networkspace/FirstLibrary/FirstLibrary.csproj"
+              "/home/mijo1/Desktop/Sts/Sapient_Courses/PJP2_projects/firstdotnetproject/FirstLibrary/FirstLibrary.csproj": {
+                "projectPath": "/home/mijo1/Desktop/Sts/Sapient_Courses/PJP2_projects/firstdotnetproject/FirstLibrary/FirstLibrary.csproj"
               }
             }
           }
@@ -72,14 +72,14 @@
         }
       }
     },
-    "/home/mijo1/Desktop/Sts/Sapient_Courses/PJP2_projects/networkspace/FirstLibrary/FirstLibrary.csproj": {
+    "/home/mijo1/Desktop/Sts/Sapient_Courses/PJP2_projects/firstdotnetproject/FirstLibrary/FirstLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/mijo1/Desktop/Sts/Sapient_Courses/PJP2_projects/networkspace/FirstLibrary/FirstLibrary.csproj",
+        "projectUniqueName": "/home/mijo1/Desktop/Sts/Sapient_Courses/PJP2_projects/firstdotnetproject/FirstLibrary/FirstLibrary.csproj",
         "projectName": "FirstLibrary",
-        "projectPath": "/home/mijo1/Desktop/Sts/Sapient_Courses/PJP2_projects/networkspace/FirstLibrary/FirstLibrary.csproj",
+        "projectPath": "/home/mijo1/Desktop/Sts/Sapient_Courses/PJP2_projects/firstdotnetproject/FirstLibrary/FirstLibrary.csproj",
         "packagesPath": "/home/mijo1/.nuget/packages/",
-        "outputPath": "/home/mijo1/Desktop/Sts/Sapient_Courses/PJP2_projects/networkspace/FirstLibrary/obj/",
+        "outputPath": "/home/mijo1/Desktop/Sts/Sapient_Courses/PJP2_projects/firstdotnetproject/FirstLibrary/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/mijo1/.nuget/NuGet/NuGet.Config"
