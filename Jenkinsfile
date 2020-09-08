@@ -5,7 +5,7 @@ agent any
 stages {
 
 	stage ('Checkout') {
- 	 checkout([$class: 'GitSCM', branches: [[name: '*/master']], doGenerateSubmoduleConfigurations: false, extensions: [], submoduleCfg: [], userRemoteConfigs: [[credentialsId: 'c124e037-9036-4b1c-b5e6-ebe579c2db1c', url: 'https://github.com/mijo2/firstdotnetproject']]]) 
+ 	 steps{checkout([$class: 'GitSCM', branches: [[name: '*/master']], doGenerateSubmoduleConfigurations: false, extensions: [], submoduleCfg: [], userRemoteConfigs: [[credentialsId: 'c124e037-9036-4b1c-b5e6-ebe579c2db1c', url: 'https://github.com/mijo2/firstdotnetproject']]]) }
 	}
 	stage('Restore PACKAGES') {
             steps{sh "dotnet restore"}
