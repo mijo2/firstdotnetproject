@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "FObg9tBnOigGVGsVExkHRn2XgbyvC1wPbIvJpxTv+ecBzEopfYfT67O14T4lcubeQ7n4p0WUN7vkrop8ewH54A==",
+  "dgSpecHash": "FbzGLFCnqqFwJcV7o3086v2zBucBov+ZYyGQ4U8/exzpFD9CUHAb2zasOnlOWHHCInGr7SX5frjW6Ax4zFuTCw==",
   "success": true,
-  "projectFilePath": "/home/mijo1/Desktop/Sts/Sapient_Courses/PJP2_projects/firstdotnetproject/FirstLibrary/FirstLibrary.csproj",
+  "projectFilePath": "C:\\Users\\miljolly\\Desktop\\Sapient_Courses-master\\firstdotnetproject\\FirstLibrary\\FirstLibrary.csproj",
   "expectedPackageFiles": [
-    "/home/mijo1/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "/home/mijo1/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\miljolly\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\miljolly\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],
   "logs": []
 }

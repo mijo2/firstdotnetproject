@@ -5516,19 +5516,19 @@
     ]
   },
   "packageFolders": {
-    "/home/mijo1/.nuget/packages/": {}
+    "C:\\Users\\miljolly\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/mijo1/Desktop/Sts/Sapient_Courses/PJP2_projects/firstdotnetproject/FirstCoreProject/FirstCoreProject.csproj",
+      "projectUniqueName": "C:\\Users\\miljolly\\Desktop\\Sapient_Courses-master\\firstdotnetproject\\FirstCoreProject\\FirstCoreProject.csproj",
       "projectName": "FirstCoreProject",
-      "projectPath": "/home/mijo1/Desktop/Sts/Sapient_Courses/PJP2_projects/firstdotnetproject/FirstCoreProject/FirstCoreProject.csproj",
-      "packagesPath": "/home/mijo1/.nuget/packages/",
-      "outputPath": "/home/mijo1/Desktop/Sts/Sapient_Courses/PJP2_projects/firstdotnetproject/FirstCoreProject/obj/",
+      "projectPath": "C:\\Users\\miljolly\\Desktop\\Sapient_Courses-master\\firstdotnetproject\\FirstCoreProject\\FirstCoreProject.csproj",
+      "packagesPath": "C:\\Users\\miljolly\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\miljolly\\Desktop\\Sapient_Courses-master\\firstdotnetproject\\FirstCoreProject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/mijo1/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\miljolly\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -5539,8 +5539,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "/home/mijo1/Desktop/Sts/Sapient_Courses/PJP2_projects/firstdotnetproject/FirstLibrary/FirstLibrary.csproj": {
-              "projectPath": "/home/mijo1/Desktop/Sts/Sapient_Courses/PJP2_projects/firstdotnetproject/FirstLibrary/FirstLibrary.csproj"
+            "C:\\Users\\miljolly\\Desktop\\Sapient_Courses-master\\firstdotnetproject\\FirstLibrary\\FirstLibrary.csproj": {
+              "projectPath": "C:\\Users\\miljolly\\Desktop\\Sapient_Courses-master\\firstdotnetproject\\FirstLibrary\\FirstLibrary.csproj"
             }
           }
         }
@@ -5582,7 +5582,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.401/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
       }
     }
   }
